@@ -11,7 +11,7 @@ dependencies:
 
 This is how the Rectangular Stepper will look in your app:
 
-![Rectangular Stepper Example](assets/example_screenshot.png)
+![Rectangular Stepper Example](https://github.com/mossssama/RectangularStepper/raw/main/assets/example_screenshot.png)
 
 ## Usage:
 
