@@ -1,6 +1,6 @@
 name: rectangular_stepper
 description: "A customizable and visually appealing widget for creating horizontal step indicators with support for sub-steps."
-version: 1.0.6
+version: 1.0.7
 
 homepage: https://github.com/mossssama
 repository: https://github.com/mossssama/RectangularStepper.git
