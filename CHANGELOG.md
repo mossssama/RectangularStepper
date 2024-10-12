@@ -1,3 +1,3 @@
-## 1.0.4
+## 1.0.5
 
-* Adding example & retesting the package
+* Fixing exampleScreenshot display in pub.dev

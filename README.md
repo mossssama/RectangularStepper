@@ -65,7 +65,7 @@ This code snippet creates a horizontal stepper with four main steps and varying 
 ## Additional Features:
 
 - Customizable appearance: You can modify the colors, border styles, and text styles of the stepper to match your application's design.
-- RTL support: The stepper can be displayed in right-to-left layouts.
+- RTL/LTR support: The stepper can be displayed in both right-to-left & left-to-right layouts.
 
 
 ## Getting Started:

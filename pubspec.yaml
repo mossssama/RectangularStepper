@@ -1,6 +1,6 @@
 name: rectangular_stepper
 description: "A customizable and visually appealing widget for creating horizontal step indicators with support for sub-steps."
-version: 1.0.4
+version: 1.0.5
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
