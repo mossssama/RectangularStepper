@@ -1,3 +1,3 @@
-## 1.0.1
+## 1.0.4
 
-* TODO: Describe initial release.
+* Adding example & retesting the package

@@ -7,7 +7,13 @@ dependencies:
   rectangular_stepper: ^<version> (replace with the latest version)
 ```
 
-## Usage
+## Screenshots:
+
+This is how the Rectangular Stepper will look in your app:
+
+![Rectangular Stepper Example](assets/example_screenshot.png)
+
+## Usage:
 
 Here's an example of how to use the StepperRow widget:
 
@@ -29,7 +35,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Rectangular Stepper'),
         ),
-        body: const Column(
+        body: Column(
           children: [
             StepperRow(
                 numberOfSteps: 4,

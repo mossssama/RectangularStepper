@@ -7,9 +7,9 @@ void main() {
       'RectangularStepperRow displays correct number of steps and sub-steps',
       (WidgetTester tester) async {
     await tester.pumpWidget(
-      MaterialApp(
+      const MaterialApp(
         home: Scaffold(
-          body: RectangularStepperRow(
+          body: StepperRow(
             numberOfSteps: 4,
             subStepsList: [4, 2, 3, 1],
             currentStep: 2,
